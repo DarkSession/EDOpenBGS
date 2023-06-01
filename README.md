@@ -3,8 +3,8 @@
 ## Idea
 - Web based application to track the BGS and squadron BGS activities
 - BGS records and activities are retained for 90 - 360 days.
-- Tracking is based on the Frontier 'CAPI' journal import. All data comes from FDev servers, journal access is required to use account
-- Squadron system: Allows squadron leaders to create and manage their members, option to automatically accept or remove users based on their game journals
+- Tracking is based on the Frontier 'CAPI' journal import. All data comes from FDev servers, journal access is required to use application
+- Squadron system: Allows squadron leaders to create and manage their members, option to automatically accept or remove users based on their in-game (journal) squadron
 - By default, squadron members can only see BGS activites within their own squadron
 - Per system messages/actions: Squadron BGS leader can define manual actions per system, can define per system influence limits for the application automatically issue actions
 - Public instance available for everyone, private instance can be self-hosted by each squadron (OPSEC)
