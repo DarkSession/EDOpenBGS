@@ -10,4 +10,5 @@
 - Public instance available for everyone, private instance can be self-hosted by each squadron (OPSEC)
 - Squadrons are able to automatically exchange/share their activities with selected allies, this also works cross-instance (public to private, private to public, private to private)
 
-![image](https://github.com/DarkSession/EDOpenBGS/assets/68336675/a5b547a3-0f1e-4251-b6a2-8141e47c4fa9)
+![image](https://github.com/DarkSession/EDOpenBGS/assets/68336675/1278ff63-bc66-4f75-b677-3ab0aafa0d34)
+
